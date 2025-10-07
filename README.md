@@ -30,6 +30,19 @@ Para clonar este repositorio y comenzar a trabajar con la tienda de cerámica, s
    ```bash
    cd adela-ceramica
    ```
+3. Navega al directorio del proyecto:
+   ```bash
+   cd fitness-landing-page
+   ```
+4. Instala las dependencias:
+ 
+   ```bash
+   npm install
+   ```
+5. Inicia el servidor de desarrollo:
+   ```bash
+   npm run dev
+   ```
 
 ## Vista Previa
 
